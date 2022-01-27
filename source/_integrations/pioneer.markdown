@@ -176,3 +176,35 @@ sources:
   'Favorites': '45'
   'Game': '49'
 ```
+
+#### SC-67
+
+```yaml
+sources:
+  'PHONO': '00'
+  'CD': '01'
+  'TUNER': '02'
+  'DVD': '04'
+  'TV': '05'
+  'SAT/CBL': '06'
+  'VIDEO 1(VIDEO)': '10'
+  'USB-DAC': '13'
+  'DVR/BDR': '15'
+  'iPod/USB': '17'
+  'HDMI 1': '19'
+  'HDMI 2': '20'
+  'HDMI 3': '21'
+  'HDMI 4': '22'
+  'HDMI 5': '23'
+  'HDMI 6': '24'
+  'BD': '25'
+  'NETWORK (cyclic)': '26'
+  'HDMI (cyclic)': '31'
+  'ADAPTER PORT': '33'
+  'HDMI 7': '34'
+  'INTERNET RADIO': '38'
+  'SiriusXM': '40'
+  'PANDORA': '41'
+  'MEDIA SERVER': '44'
+  'FAVORITES': '45'
+```
